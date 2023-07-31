@@ -1,0 +1,47 @@
+[
+    {
+        "name": "erin.ns.cloudflare.com.",
+        "ip_server": "172.64.32.113",
+        "type": "DNS"
+    },
+    {
+        "name": "thomas.ns.cloudflare.com.",
+        "ip_server": "172.64.33.238",
+        "type": "DNS"
+    },
+    {
+        "name": "1 aspmx.l.google.com.",
+        "ip_server": "142.250.9.26",
+        "type": "MX"
+    },
+    {
+        "name": "10 aspmx2.googlemail.com.",
+        "ip_server": "172.217.197.26",
+        "type": "MX"
+    },
+    {
+        "name": "10 aspmx3.googlemail.com.",
+        "ip_server": "108.177.12.26",
+        "type": "MX"
+    },
+    {
+        "name": "5 alt1.aspmx.l.google.com.",
+        "ip_server": "172.217.197.26",
+        "type": "MX"
+    },
+    {
+        "name": "5 alt2.aspmx.l.google.com.",
+        "ip_server": "108.177.12.27",
+        "type": "MX"
+    },
+    {
+        "name": "coinspot.com.au",
+        "ip_server": "104.20.9.243",
+        "type": "AAA"
+    },
+    {
+        "name": "www.coinspot.com.au",
+        "ip_server": "172.67.1.80",
+        "type": "AAA"
+    }
+]

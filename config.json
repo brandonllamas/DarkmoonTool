@@ -1,0 +1,12 @@
+{
+    "keys":{
+        "shodan":"",
+        "wapalyzer":""
+    },
+    "scanSettings":{
+      "shodan":true,
+      "dnsdumper":true,
+      "nuclei":true,
+      "searchEmail":true
+    }
+}
